@@ -368,3 +368,5 @@ LogInit: Object subsystem initialized
 [2018.11.21-00.43.56:850][547]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
 [2018.11.21-00.43.56:850][547]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
 [2018.11.21-00.43.56:850][547]SourceControl: Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2018.11.21-00.45.23:004][972]LogSlate: Window 'Source Control Login' being destroyed
+[2018.11.21-00.45.27:969][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
